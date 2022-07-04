@@ -5,8 +5,55 @@ body {
 
 .come {
     display: flex;
+    margin-bottom: 100px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .half {
-    width: 50%;
+    width: 40%;
+    margin: 5%;
+}
+.welcome {
+    font-size: 40px;
+}
+.deve {
+    color: tomato;
+}
+.meclo {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 40px;
+    background:linear-gradient(45deg, tomato, pink);
+    border-radius: 5px;
+}
+.half img {
+    width: 80%;
+}
+
+.mypic {
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px gray;
+}
+
+.exper {
+    width: 95%;
+    margin: auto;
+}
+.wel {
+    width: 40%;
+    margin: 5%;
+    padding: 40px;
+    background-color: antiquewhite;
+    box-shadow: 5px 5px 30px gray;
+}
+.f1 {
+    border-left: 7px solid tomato;
+}
+.f2 {
+    border-left: 7px solid blue;
+}
+.come2 {
+    display: flex;
 }
