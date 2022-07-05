@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+.headerArea {
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.h1color {
+    color: tomato;
+}
+.food {
+    background: linear-gradient(tomato, rgb(255, 38, 0));
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 20px;
+    color: aliceblue;
+}
+.huaf {
+    width: 50%;
+}
+.headerArea .cn{
+    align-items: center;
+}
+.hone {
+    margin-top: 120px;
+}
+.hone h1, h2 {
+    font-size: 40px;
+}
+
+/* about area start */
+.about {
+    background-image: url(images/Frame\ 59.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 100px 0;
+}
+.insid {
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.cnabout img {
+    width: 50%;
+    padding: 50px;
+}
+
+.footerArea {
+    text-align: center;
+}
